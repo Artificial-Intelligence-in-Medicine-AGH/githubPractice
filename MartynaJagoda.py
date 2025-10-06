@@ -1,1 +1,1 @@
-print("Hello ArcelorMittal from AImed")
+print("Hello AImed")
